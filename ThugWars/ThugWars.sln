@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThugWars", "ThugWars\ThugWars.csproj", "{AFFEEA1D-F94A-4118-83ED-69BA49F2C325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThugWars.Tests", "ThugWars.Tests\ThugWars.Tests.csproj", "{AD3C269A-1E65-4EBE-A82D-48502C4B16F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFEEA1D-F94A-4118-83ED-69BA49F2C325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFEEA1D-F94A-4118-83ED-69BA49F2C325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFEEA1D-F94A-4118-83ED-69BA49F2C325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFEEA1D-F94A-4118-83ED-69BA49F2C325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3C269A-1E65-4EBE-A82D-48502C4B16F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3C269A-1E65-4EBE-A82D-48502C4B16F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3C269A-1E65-4EBE-A82D-48502C4B16F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3C269A-1E65-4EBE-A82D-48502C4B16F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
