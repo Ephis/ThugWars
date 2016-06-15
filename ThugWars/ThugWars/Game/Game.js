@@ -1,6 +1,6 @@
 ﻿var main = main || {};
 
-main.game = new Phaser.Game(800, 600, Phaser.AUTO, '');
+main.game = new Phaser.Game(548, 299, Phaser.AUTO, '');
 
 main.game.state.add('Fight', fight);
 
